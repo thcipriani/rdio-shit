@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "The Ultimate Collection",
+    "artist": "Django Reinhardt",
+    "rdioKey": "a3342"
+  },
+  {
+    "name": "Mood Indigo",
+    "artist": "Duke Ellington & His Orchestra",
+    "rdioKey": "a3659"
+  },
+  {
+    "name": "In Copenhagen",
+    "artist": "Horace Parlan",
+    "rdioKey": "a26715"
+  },
+  {
+    "name": "Pictures at an Exhibition",
+    "artist": "Modest Mussorgsky",
+    "rdioKey": "a35410"
+  },
+  {
+    "name": "Rachmaninoff: Variations On A Theme Of Chopin, Beethoven: Thirty Three Variations On A Waltz By Diabelli",
+    "artist": "Frédéric Chopin",
+    "rdioKey": "a38474"
+  },
+  {
+    "name": "Houston Gold",
+    "artist": "Lightning Hopkins",
+    "rdioKey": "a38794"
+  },
+  {
+    "name": "The Very Best Of",
+    "artist": "Blind Blake",
+    "rdioKey": "a39793"
+  },
+  {
+    "name": "Bach Cello Suites",
+    "artist": "Johann Sebastian Bach",
+    "rdioKey": "a47952"
+  },
+  {
+    "name": "The Carnival of Animals",
+    "artist": "Camille Saint-Saëns",
+    "rdioKey": "a56400"
+  },
+  {
+    "name": "Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935",
+    "artist": "Blind Willie McTell",
+    "rdioKey": "a88760"
+  },
+  {
+    "name": "Deja Vu",
+    "artist": "Crosby, Stills, Nash And Young",
+    "rdioKey": "a94114"
+  },
+  {
+    "name": "Soul Queen",
+    "artist": "Aretha Franklin",
+    "rdioKey": "a95679"
+  },
+  {
+    "name": "Hard Core",
+    "artist": "Lil' Kim",
+    "rdioKey": "a96803"
+  },
+  {
+    "name": "Unknown Pleasures [Collector's Edition]",
+    "artist": "Joy Division",
+    "rdioKey": "a96926"
+  },
+  {
+    "name": "Grievous Angel",
+    "artist": "Gram Parsons",
+    "rdioKey": "a97058"
+  },
+  {
+    "name": "The Genius!",
+    "artist": "Ray Charles",
+    "rdioKey": "a97939"
+  },
+  {
+    "name": "Roots [Special Edition]",
+    "artist": "Sepultura",
+    "rdioKey": "a101485"
+  },
+  {
+    "name": "Greatest Hits",
+    "artist": "James Taylor",
+    "rdioKey": "a101622"
+  },
+  {
+    "name": "Merriweather Post Pavilion",
+    "artist": "Animal Collective",
+    "rdioKey": "a101677"
+  },
+  {
+    "name": "Ten Stones",
+    "artist": "Wovenhand",
+    "rdioKey": "a102578"
+  },
+  {
+    "name": "River",
+    "artist": "Terry Reid",
+    "rdioKey": "a103021"
+  },
+  {
+    "name": "Forever Changes",
+    "artist": "Love",
+    "rdioKey": "a104189"
+  },
+  {
+    "name": "Folksy Nina",
+    "artist": "Nina Simone",
+    "rdioKey": "a104432"
+  },
+  {
+    "name": "Fleet Foxes",
+    "artist": "Fleet Foxes",
+    "rdioKey": "a105196"
+  },
+  {
+    "name": "Achilles' Heel [Remastered]",
+    "artist": "Pedro The Lion",
+    "rdioKey": "a105542"
+  },
+  {
+    "name": "The Sound Of The Smiths [Deluxe Edition]",
+    "artist": "The Smiths",
+    "rdioKey": "a106485"
+  },
+  {
+    "name": "For Emma, Forever Ago",
+    "artist": "Bon Iver",
+    "rdioKey": "a120317"
+  },
+  {
+    "name": "Anything Goes",
+    "artist": "Brad Mehldau Trio",
+    "rdioKey": "a120456"
+  },
+  {
+    "name": "The Tommy Boy Story, Vol. 1 [Digital Version]",
+    "artist": "Various Artists",
+    "rdioKey": "a120567"
+  },
+  {
+    "name": "Pure Southern Soul",
+    "artist": "Otis Redding",
+    "rdioKey": "a120831"
+  },
+  {
+    "name": "The Genuine Texas Groover",
+    "artist": "Doug Sahm",
+    "rdioKey": "a120937"
+  },
+  {
+    "name": "Firebird",
+    "artist": "Igor Stravinsky",
+    "rdioKey": "a127188"
+  },
+  {
+    "name": "The Lioness",
+    "artist": "Songs: Ohia",
+    "rdioKey": "a146724"
+  },
+  {
+    "name": "Yoshimi Battles The Pink Robots",
+    "artist": "The Flaming Lips",
+    "rdioKey": "a153845"
+  },
+  {
+    "name": "Thickfreakness",
+    "artist": "The Black Keys",
+    "rdioKey": "a156126"
+  },
+  {
+    "name": "Bitter Tea",
+    "artist": "The Fiery Furnaces",
+    "rdioKey": "a156136"
+  },
+  {
+    "name": "Dr. No's Oxperiment",
+    "artist": "Oh No",
+    "rdioKey": "a160286"
+  },
+  {
+    "name": "The Essential",
+    "artist": "John Fahey",
+    "rdioKey": "a165675"
+  },
+  {
+    "name": "Mama Tried/ Pride In What I Am",
+    "artist": "Merle Haggard",
+    "rdioKey": "a168163"
+  },
+  {
+    "name": "Beethoven: String Quartet, Op.13 & Grosse Fuge, Op.133",
+    "artist": "Alban Berg Quartett",
+    "rdioKey": "a176116"
+  },
+  {
+    "name": "The Complete Birth Of The Cool",
+    "artist": "Miles Davis",
+    "rdioKey": "a176834"
+  },
+  {
+    "name": "A Night in Tunisia (The Rudy Van Gelder Edition)",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "rdioKey": "a179519"
+  },
+  {
+    "name": "The Best Of Bobby Womack - The Soul Years",
+    "artist": "Bobby Womack",
+    "rdioKey": "a181991"
+  },
+  {
+    "name": "Gentlemen",
+    "artist": "The Afghan Whigs",
+    "rdioKey": "a183284"
+  },
+  {
+    "name": "Schubert : Winterreise",
+    "artist": "Gerald Moore",
+    "rdioKey": "a183542"
+  },
+  {
+    "name": "We Share Our Mothers' Health",
+    "artist": "The Knife",
+    "rdioKey": "a184345"
+  },
+  {
+    "name": "Deep Cuts",
+    "artist": "The Knife",
+    "rdioKey": "a184353"
+  },
+  {
+    "name": "Born To This Land",
+    "artist": "Red Steagall",
+    "rdioKey": "a184387"
+  },
+  {
+    "name": "Our Endless Numbered Days",
+    "artist": "Iron & Wine",
+    "rdioKey": "a185081"
+  },
+  {
+    "name": "Talking Heads 77",
+    "artist": "Talking Heads",
+    "rdioKey": "a186356"
+  },
+  {
+    "name": "The Mande Variations",
+    "artist": "Toumani Diabate",
+    "rdioKey": "a186552"
+  },
+  {
+    "name": "Enesco: Oedipe",
+    "artist": "Jose Van Dam",
+    "rdioKey": "a186658"
+  },
+  {
+    "name": "Let's Bottle Bohemia",
+    "artist": "The Thrills",
+    "rdioKey": "a188860"
+  },
+  {
+    "name": "Loveless",
+    "artist": "My Bloody Valentine",
+    "rdioKey": "a189377"
+  },
+  {
+    "name": "The Fabulous Sidney Bechet",
+    "artist": "Sidney Bechet",
+    "rdioKey": "a190531"
+  },
+  {
+    "name": "Let's Get Lost: The Best Of Chet Baker Sings",
+    "artist": "Chet Baker",
+    "rdioKey": "a190801"
+  },
+  {
+    "name": "Straight Outta Compton (2002 - Remaster)",
+    "artist": "N.W.A",
+    "rdioKey": "a193498"
+  },
+  {
+    "name": "No Protection",
+    "artist": "Massive Attack",
+    "rdioKey": "a209953"
+  },
+  {
+    "name": "Dopethrone",
+    "artist": "Electric Wizard",
+    "rdioKey": "a210682"
+  },
+  {
+    "name": "Best Of The Band",
+    "artist": "The Band",
+    "rdioKey": "a212282"
+  },
+  {
+    "name": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "rdioKey": "a212323"
+  },
+  {
+    "name": "Money Jungle",
+    "artist": "Duke Ellington",
+    "rdioKey": "a212553"
+  },
+  {
+    "name": "Brothers",
+    "artist": "The Black Keys",
+    "rdioKey": "a216556"
+  },
+  {
+    "name": "A Man And The Blues",
+    "artist": "Buddy Guy",
+    "rdioKey": "a219703"
+  },
+  {
+    "name": "Jezebel",
+    "artist": "Justin Hinds & The Dominoes",
+    "rdioKey": "a224056"
+  },
+  {
+    "name": "The Gilded Palace Of Sin & Burritos",
+    "artist": "The Flying Burrito Brothers",
+    "rdioKey": "a225786"
+  },
+  {
+    "name": "In The Dark",
+    "artist": "Toots & The Maytals",
+    "rdioKey": "a226288"
+  },
+  {
+    "name": "20th Century Masters: The Millennium Collection: Best of Kitty Wells",
+    "artist": "Kitty Wells",
+    "rdioKey": "a226586"
+  },
+  {
+    "name": "Gold",
+    "artist": "Patsy Cline",
+    "rdioKey": "a228416"
+  },
+  {
+    "name": "Sackcloth 'N' Ashes",
+    "artist": "16 Horsepower",
+    "rdioKey": "a228700"
+  },
+  {
+    "name": "It Takes A Nation Of Millions To Hold Us Back",
+    "artist": "Public Enemy",
+    "rdioKey": "a228737"
+  },
+  {
+    "name": "Arular",
+    "artist": "M.I.A.",
+    "rdioKey": "a230352"
+  },
+  {
+    "name": "Return Of Django (Bonus track edition)",
+    "artist": "The Upsetters",
+    "rdioKey": "a230654"
+  },
+  {
+    "name": "The Definitive Collection",
+    "artist": "Chuck Berry",
+    "rdioKey": "a231414"
+  },
+  {
+    "name": "The Black Saint And The Sinner Lady",
+    "artist": "Charles Mingus",
+    "rdioKey": "a231676"
+  },
+  {
+    "name": "Two Steps From The Blues",
+    "artist": "Bobby Bland",
+    "rdioKey": "a235588"
+  },
+  {
+    "name": "20th Century Masters: The Millennium Collection: Best Of Bill Monroe",
+    "artist": "Bill Monroe",
+    "rdioKey": "a235765"
+  },
+  {
+    "name": "The Folk Singer",
+    "artist": "Muddy Waters",
+    "rdioKey": "a235876"
+  },
+  {
+    "name": "Martin Scorsese Presents The Blues - Godfathers & Sons",
+    "artist": "Various Artists",
+    "rdioKey": "a235964"
+  },
+  {
+    "name": "A Love Supreme",
+    "artist": "John Coltrane",
+    "rdioKey": "a236082"
+  },
+  {
+    "name": "Scott Walker & The Walker Brothers - 1965-1970",
+    "artist": "Scott Walker, The Walker Brothers",
+    "rdioKey": "a237025"
+  },
+  {
+    "name": "Thriller",
+    "artist": "Michael Jackson",
+    "rdioKey": "a237691"
+  },
+  {
+    "name": "The Essential Willie Nelson",
+    "artist": "Willie Nelson",
+    "rdioKey": "a237777"
+  },
+  {
+    "name": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "rdioKey": "a237902"
+  },
+  {
+    "name": "The Essential Weird Al Yankovic",
+    "artist": "\"Weird Al\" Yankovic",
+    "rdioKey": "a238226"
+  },
+  {
+    "name": "The R. In R&B Collection: Volume 1",
+    "artist": "R. Kelly",
+    "rdioKey": "a238898"
+  },
+  {
+    "name": "Illmatic",
+    "artist": "Nas",
+    "rdioKey": "a239700"
+  },
+  {
+    "name": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "rdioKey": "a240824"
+  },
+  {
+    "name": "Only Built 4 Cuban Linx",
+    "artist": "Raekwon",
+    "rdioKey": "a240894"
+  },
+  {
+    "name": "Greatest Hits",
+    "artist": "Sam Cooke",
+    "rdioKey": "a240930"
+  },
+  {
+    "name": "Jolene",
+    "artist": "Dolly Parton",
+    "rdioKey": "a241470"
+  },
+  {
+    "name": "Rocks The House",
+    "artist": "Etta James",
+    "rdioKey": "a241499"
+  },
+  {
+    "name": "I'm a Flirt Remix",
+    "artist": "R. Kelly",
+    "rdioKey": "a241696"
+  },
+  {
+    "name": "Ah Um",
+    "artist": "Charles Mingus",
+    "rdioKey": "a242568"
+  },
+  {
+    "name": "Nina Simone Sings The Blues",
+    "artist": "Nina Simone",
+    "rdioKey": "a242722"
+  },
+  {
+    "name": "Dreaming My Dreams",
+    "artist": "Waylon Jennings",
+    "rdioKey": "a244187"
+  },
+  {
+    "name": "The Essential George Gershwin",
+    "artist": "George Gershwin",
+    "rdioKey": "a247171"
+  },
+  {
+    "name": "Johnny Paycheck - 16 Biggest Hits",
+    "artist": "Johnny Paycheck",
+    "rdioKey": "a247825"
+  },
+  {
+    "name": "RCA Country Legends",
+    "artist": "Sons of the Pioneers",
+    "rdioKey": "a248104"
+  },
+  {
+    "name": "The Silver Toungued Devil And I",
+    "artist": "Kris Kristofferson",
+    "rdioKey": "a249961"
+  },
+  {
+    "name": "Howlin' Wolf: His Best -Chess 50th Anniversary Collection",
+    "artist": "Howlin' Wolf",
+    "rdioKey": "a250006"
+  },
+  {
+    "name": "The Irving Berlin Songbook",
+    "artist": "Ella Fitzgerald",
+    "rdioKey": "a251314"
+  },
+  {
+    "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
+    "artist": "Dizzy Gillespie",
+    "rdioKey": "a251366"
+  },
+  {
+    "name": "His Best 1947 To 1956",
+    "artist": "Muddy Waters",
+    "rdioKey": "a252531"
+  },
+  {
+    "name": "Freedom Flight",
+    "artist": "Shuggie Otis",
+    "rdioKey": "a252659"
+  },
+  {
+    "name": "Appetite For Destruction",
+    "artist": "Guns N' Roses",
+    "rdioKey": "a253049"
+  },
+  {
+    "name": "Guitar Forms",
+    "artist": "Kenny Burrell",
+    "rdioKey": "a255379"
+  },
+  {
+    "name": "The Jazz Masters - 27 Classic Performances From The Columbia Masterpieces Series",
+    "artist": "Various Artists",
+    "rdioKey": "a257147"
+  },
+  {
+    "name": "Gerry Mulligan Meets Ben Webster",
+    "artist": "Gerry Mulligan",
+    "rdioKey": "a258802"
+  },
+  {
+    "name": "Delta Blues",
+    "artist": "Son House",
+    "rdioKey": "a259481"
+  },
+  {
+    "name": "Schubert Lieder",
+    "artist": "Thomas Quasthoff",
+    "rdioKey": "a261316"
+  },
+  {
+    "name": "Country Favorites - Willie Nelson Style",
+    "artist": "Willie Nelson",
+    "rdioKey": "a261669"
+  },
+  {
+    "name": "Live Recordings from the Louisiana Hayride",
+    "artist": "June Carter",
+    "rdioKey": "a270876"
+  },
+  {
+    "name": "Treats",
+    "artist": "Sleigh Bells",
+    "rdioKey": "a273585"
+  },
+  {
+    "name": "Bud Powell's Moods",
+    "artist": "Bud Powell",
+    "rdioKey": "a275782"
+  },
+  {
+    "name": "Gods, Kings & Demons (Opera Arias)",
+    "artist": "René Pape, Staatskapelle Dresden, Sebastian Weigle",
+    "rdioKey": "a276525"
+  },
+  {
+    "name": "Piano Solo",
+    "artist": "Chick Corea",
+    "rdioKey": "a277096"
+  },
+  {
+    "name": "The Ecstatic",
+    "artist": "Mos Def",
+    "rdioKey": "a280948"
+  },
+  {
+    "name": "Eusebio",
+    "artist": "Giulia Y Los Tellarini",
+    "rdioKey": "a283013"
+  },
+  {
+    "name": "The Essential Leonard Cohen",
+    "artist": "Leonard Cohen",
+    "rdioKey": "a285405"
+  },
+  {
+    "name": "The Score",
+    "artist": "Fugees",
+    "rdioKey": "a286846"
+  },
+  {
+    "name": "On The Corner",
+    "artist": "Miles Davis",
+    "rdioKey": "a293020"
+  },
+  {
+    "name": "Blues Singer",
+    "artist": "Buddy Guy",
+    "rdioKey": "a296304"
+  },
+  {
+    "name": "Paul Simon",
+    "artist": "Paul Simon",
+    "rdioKey": "a301377"
+  },
+  {
+    "name": "Time Out",
+    "artist": "The Dave Brubeck Quartet",
+    "rdioKey": "a307843"
+  },
+  {
+    "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+    "artist": "Yo-Yo Ma",
+    "rdioKey": "a311240"
+  },
+  {
+    "name": "Best Of Paolo Conte",
+    "artist": "Paolo Conte",
+    "rdioKey": "a317606"
+  },
+  {
+    "name": "Crystal Castles",
+    "artist": "Crystal Castles",
+    "rdioKey": "a322027"
+  },
+  {
+    "name": "The Happiness Project",
+    "artist": "Charles Spearin",
+    "rdioKey": "a328310"
+  },
+  {
+    "name": "Remission",
+    "artist": "Mastodon",
+    "rdioKey": "a328660"
+  },
+  {
+    "name": "Beethoven: Fidelio",
+    "artist": "London Symphony Orchestra",
+    "rdioKey": "a332697"
+  },
+  {
+    "name": "Piano Performances 1928-1945",
+    "artist": "Béla Bartók",
+    "rdioKey": "a346739"
+  },
+  {
+    "name": "A Charlie Brown Christmas [Expanded] (Remastered)",
+    "artist": "Vince Guaraldi Trio",
+    "rdioKey": "a385185"
+  },
+  {
+    "name": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "rdioKey": "a385695"
+  },
+  {
+    "name": "Portrait of a Legend (Remastered)",
+    "artist": "Sam Cooke",
+    "rdioKey": "a385723"
+  },
+  {
+    "name": "Hard Travelin'",
+    "artist": "Ramblin' Jack Elliott",
+    "rdioKey": "a386733"
+  },
+  {
+    "name": "A Boy Named Charlie Brown",
+    "artist": "Vince Guaraldi Trio",
+    "rdioKey": "a387708"
+  },
+  {
+    "name": "Charlie Brown's Holiday Hits (Remastered)",
+    "artist": "Vince Guaraldi Trio",
+    "rdioKey": "a387811"
+  },
+  {
+    "name": "Art Pepper Meets The Rhythm Section (Remastered)",
+    "artist": "Art Pepper",
+    "rdioKey": "a387911"
+  },
+  {
+    "name": "Live At The 1965 Monterey Jazz Festival",
+    "artist": "Dizzy Gillespie Sextet",
+    "rdioKey": "a388259"
+  },
+  {
+    "name": "Bitches Brew (Legacy Edition)",
+    "artist": "Miles Davis",
+    "rdioKey": "a391651"
+  },
+  {
+    "name": "A User's Guide",
+    "artist": "Ultramarine",
+    "rdioKey": "a409934"
+  },
+  {
+    "name": "Shumann: Symphony No. 4",
+    "artist": "London Symphony Orchestra",
+    "rdioKey": "a464404"
+  },
+  {
+    "name": "Chocolate Elvis Dubs (Continuous Mix)",
+    "artist": "Tosca",
+    "rdioKey": "a469028"
+  },
+  {
+    "name": "Ear Mind I",
+    "artist": "Meridian Arts Ensemble",
+    "rdioKey": "a472203"
+  },
+  {
+    "name": "The Essential Billie Holiday",
+    "artist": "Billie Holiday",
+    "rdioKey": "a529409"
+  },
+  {
+    "name": "Soul Christmas",
+    "artist": "Various Artists",
+    "rdioKey": "a530285"
+  },
+  {
+    "name": "Charlie Walker: Greatest Honky Tonk Hits",
+    "artist": "Charlie Walker",
+    "rdioKey": "a559005"
+  },
+  {
+    "name": "The Best Of Sir Douglas Quintet",
+    "artist": "Sir Douglas Quintet",
+    "rdioKey": "a566284"
+  },
+  {
+    "name": "Debussy: Rhapsody for Saxophone and Orchestra, La Mer",
+    "artist": "Various Artists",
+    "rdioKey": "a576408"
+  },
+  {
+    "name": "\"They're Off And Rolling\" Says Archie",
+    "artist": "The Everly Brothers",
+    "rdioKey": "a581783"
+  },
+  {
+    "name": "Dopethrone",
+    "artist": "Electric Wizard",
+    "rdioKey": "a590651"
+  },
+  {
+    "name": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "rdioKey": "a610569"
+  },
+  {
+    "name": "Doolittle",
+    "artist": "Pixies",
+    "rdioKey": "a613211"
+  },
+  {
+    "name": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+    "artist": "Ahmad Jamal",
+    "rdioKey": "a620688"
+  },
+  {
+    "name": "Voodoo Man",
+    "artist": "Screamin Jay Hawkins",
+    "rdioKey": "a626261"
+  },
+  {
+    "name": "Singing Bones",
+    "artist": "The Handsome Family",
+    "rdioKey": "a636518"
+  },
+  {
+    "name": "James Blake",
+    "artist": "James Blake",
+    "rdioKey": "a639258"
+  },
+  {
+    "name": "CD Version of the First Two Records",
+    "artist": "Bikini Kill",
+    "rdioKey": "a653558"
+  },
+  {
+    "name": "Take Me To Your Leader",
+    "artist": "King Geedorah",
+    "rdioKey": "a680826"
+  },
+  {
+    "name": "Classic Appalachian Blues from Smithsonian Folkways",
+    "artist": "Various Artists",
+    "rdioKey": "a689909"
+  },
+  {
+    "name": "Folk Music of the Newport Folk Festival, Vol. 2",
+    "artist": "Various Artists",
+    "rdioKey": "a696950"
+  },
+  {
+    "name": "Classic Blues from Smithsonian Folkways, Vol. 2",
+    "artist": "Various Artists",
+    "rdioKey": "a702757"
+  },
+  {
+    "name": "Classic Bluegrass from Smithsonian Folkways",
+    "artist": "Various Artists",
+    "rdioKey": "a703663"
+  },
+  {
+    "name": "The Folkways Years, 1959-1961",
+    "artist": "Dave Van Ronk",
+    "rdioKey": "a706917"
+  },
+  {
+    "name": "Helplessness Blues",
+    "artist": "Fleet Foxes",
+    "rdioKey": "a733968"
+  },
+  {
+    "name": "Petestrumentals - 10th Anniversary Expanded & Limited Edition",
+    "artist": "Pete Rock",
+    "rdioKey": "a736483"
+  },
+  {
+    "name": "I'm Wide Awake It's Morning",
+    "artist": "Bright Eyes",
+    "rdioKey": "a743728"
+  },
+  {
+    "name": "Cults",
+    "artist": "Cults",
+    "rdioKey": "a782050"
+  },
+  {
+    "name": "Classical Favorites - Grieg: Piano Concerto - Peer Gynt",
+    "artist": "Edvard Grieg",
+    "rdioKey": "a803907"
+  },
+  {
+    "name": "The Rite Of Spring: Le Sacre Du Printemps & Apollon Musagète",
+    "artist": "Igor Stravinsky",
+    "rdioKey": "a804237"
+  },
+  {
+    "name": "Maurice Ravel: Bolero",
+    "artist": "Various Artists",
+    "rdioKey": "a804746"
+  },
+  {
+    "name": "Bon Iver",
+    "artist": "Bon Iver",
+    "rdioKey": "a818389"
+  },
+  {
+    "name": "Thelonious Alone in San Francisco [Original Jazz Classics Remasters]",
+    "artist": "Thelonious Monk",
+    "rdioKey": "a818488"
+  },
+  {
+    "name": "JAC",
+    "artist": "Tosca",
+    "rdioKey": "a824386"
+  },
+  {
+    "name": "The Beat Generation 10th Anniversary Single Collection",
+    "artist": "Various Artists",
+    "rdioKey": "a824509"
+  },
+  {
+    "name": "Getz/Gilberto",
+    "artist": "Stan Getz, João Gilberto",
+    "rdioKey": "a829448"
+  },
+  {
+    "name": "Christmas Guitar, V. 1",
+    "artist": "John Fahey",
+    "rdioKey": "a842329"
+  },
+  {
+    "name": "Finally Famous (Deluxe Edition)",
+    "artist": "Big Sean",
+    "rdioKey": "a842764"
+  },
+  {
+    "name": "Los Angeles",
+    "artist": "Flying Lotus",
+    "rdioKey": "a853463"
+  },
+  {
+    "name": "Franz Schubert: 4 Imprompus, Op. 901 and 6 moments musicaux, Op. 94 - Fryderyck Chopin: Ballades, Op. 23 and Op. 52",
+    "artist": "Friedrich Gulda",
+    "rdioKey": "a874302"
+  },
+  {
+    "name": "Field Songs (Deluxe Edition)",
+    "artist": "William Elliott Whitmore",
+    "rdioKey": "a898196"
+  },
+  {
+    "name": "Father, Son, Holy Ghost",
+    "artist": "Girls",
+    "rdioKey": "a918485"
+  },
+  {
+    "name": "Relax",
+    "artist": "Das Racist",
+    "rdioKey": "a930037"
+  },
+  {
+    "name": "Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea's Shin Joong Hyun 1958-1974",
+    "artist": "Shin Joong Hyun",
+    "rdioKey": "a940251"
+  },
+  {
+    "name": "A Different Kind Of Fix",
+    "artist": "Bombay Bicycle Club",
+    "rdioKey": "a957429"
+  },
+  {
+    "name": "Strange Mercy",
+    "artist": "St. Vincent",
+    "rdioKey": "a970686"
+  },
+  {
+    "name": "5 O'Clock",
+    "artist": "T-Pain",
+    "rdioKey": "a1017753"
+  },
+  {
+    "name": "Sister Rosetta Tharpe and the Spirit of Gospel (Vol. 4)",
+    "artist": "Sister Rosetta Tharpe",
+    "rdioKey": "a1116694"
+  },
+  {
+    "name": "Take Care (Deluxe Version)",
+    "artist": "Drake",
+    "rdioKey": "a1134273"
+  },
+  {
+    "name": "The Lost Album",
+    "artist": "The JB's and Fred Wesley",
+    "rdioKey": "a1148273"
+  },
+  {
+    "name": "Berio: Sequenzas I-Xiv (Complete)",
+    "artist": "Luciano Berio",
+    "rdioKey": "a1169802"
+  },
+  {
+    "name": "Ligeti: Chamber Music",
+    "artist": "György Ligeti",
+    "rdioKey": "a1299732"
+  },
+  {
+    "name": "Accelerando",
+    "artist": "Vijay Iyer Trio",
+    "rdioKey": "a1354361"
+  },
+  {
+    "name": "Born To Die (Deluxe Version)",
+    "artist": "Lana Del Rey",
+    "rdioKey": "a1356639"
+  },
+  {
+    "name": "Reign of Terror",
+    "artist": "Sleigh Bells",
+    "rdioKey": "a1371200"
+  },
+  {
+    "name": "Mr. M",
+    "artist": "Lambchop",
+    "rdioKey": "a1381015"
+  },
+  {
+    "name": "Nuit Classique",
+    "artist": "Various Artists",
+    "rdioKey": "a1405767"
+  },
+  {
+    "name": "The OF Tape Vol. 2",
+    "artist": "Odd Future",
+    "rdioKey": "a1420098"
+  },
+  {
+    "name": "Mixed Emotions",
+    "artist": "Tanlines",
+    "rdioKey": "a1422010"
+  },
+  {
+    "name": "Locked Down",
+    "artist": "Dr. John",
+    "rdioKey": "a1468306"
+  },
+  {
+    "name": "Dross Glop",
+    "artist": "Battles",
+    "rdioKey": "a1491366"
+  },
+  {
+    "name": "151a",
+    "artist": "Kishi Bashi",
+    "rdioKey": "a1493706"
+  },
+  {
+    "name": "XXX (Deluxe Edition)",
+    "artist": "Danny Brown",
+    "rdioKey": "a1536060"
+  },
+  {
+    "name": "Home Again",
+    "artist": "Michael Kiwanuka",
+    "rdioKey": "a1562968"
+  },
+  {
+    "name": "Early Birds",
+    "artist": "Múm",
+    "rdioKey": "a1567181"
+  },
+  {
+    "name": "RAM",
+    "artist": "Paul McCartney & Linda McCartney",
+    "rdioKey": "a1568402"
+  },
+  {
+    "name": "Ligeti/Beethoven",
+    "artist": "Jeremy Denk",
+    "rdioKey": "a1573861"
+  },
+  {
+    "name": "What We Saw From The Cheap Seats (Deluxe Version)",
+    "artist": "Regina Spektor",
+    "rdioKey": "a1594359"
+  },
+  {
+    "name": "The Bravest Man In The Universe",
+    "artist": "Bobby Womack",
+    "rdioKey": "a1606930"
+  },
+  {
+    "name": "Graceland (25th Anniversary Deluxe Edition)",
+    "artist": "Paul Simon",
+    "rdioKey": "a1611479"
+  },
+  {
+    "name": "Woody At 100: The Woody Guthrie Centennial Collection",
+    "artist": "Woody Guthrie",
+    "rdioKey": "a1657111"
+  },
+  {
+    "name": "Swing Lo Magellan",
+    "artist": "Dirty Projectors",
+    "rdioKey": "a1675987"
+  },
+  {
+    "name": "Beams",
+    "artist": "Matthew Dear",
+    "rdioKey": "a1689199"
+  },
+  {
+    "name": "Outshine the Sun",
+    "artist": "Foghorn Stringband",
+    "rdioKey": "a1740259"
+  },
+  {
+    "name": "channel ORANGE",
+    "artist": "Frank Ocean",
+    "rdioKey": "a1740686"
+  },
+  {
+    "name": "Fragrant World",
+    "artist": "Yeasayer",
+    "rdioKey": "a1803408"
+  },
+  {
+    "name": "Revolutionary Vol. 2",
+    "artist": "Immortal Technique",
+    "rdioKey": "a1848966"
+  },
+  {
+    "name": "Kanye West Presents Good Music Cruel Summer",
+    "artist": "Various Artists",
+    "rdioKey": "a1911955"
+  },
+  {
+    "name": "Lonerism",
+    "artist": "Tame Impala",
+    "rdioKey": "a1938183"
+  },
+  {
+    "name": "2",
+    "artist": "Mac Demarco",
+    "rdioKey": "a1995100"
+  },
+  {
+    "name": "Recomposed by Max Richter: Vivaldi, The Four Seasons",
+    "artist": "Max Richter",
+    "rdioKey": "a2026182"
+  },
+  {
+    "name": "Ima Read",
+    "artist": "Zebra Katz feat. Reddd Foxxx",
+    "rdioKey": "a2032465"
+  },
+  {
+    "name": "Understanding America",
+    "artist": "Frank Zappa",
+    "rdioKey": "a2157926"
+  },
+  {
+    "name": "Waves",
+    "artist": "Joey Bada$$",
+    "rdioKey": "a2199616"
+  },
+  {
+    "name": "1959 Milano Sessions (Chet Baker, Len Mercer Orchestra, Chet Baker Sextet)",
+    "artist": "Chet Baker",
+    "rdioKey": "a2255389"
+  },
+  {
+    "name": "Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack",
+    "artist": "Various Artists",
+    "rdioKey": "a2321161"
+  },
+  {
+    "name": "LONG.LIVE.A$AP (Deluxe Version)",
+    "artist": "A$AP Rocky",
+    "rdioKey": "a2397642"
+  },
+  {
+    "name": "II",
+    "artist": "Unknown Mortal Orchestra",
+    "rdioKey": "a2510574"
+  },
+  {
+    "name": "Wonderful, Glorious (Deluxe Edition)",
+    "artist": "Eels",
+    "rdioKey": "a2574013"
+  },
+  {
+    "name": "OutRun",
+    "artist": "Kavinsky",
+    "rdioKey": "a2595747"
+  },
+  {
+    "name": "Amygdala",
+    "artist": "DJ Koze",
+    "rdioKey": "a2762527"
+  },
+  {
+    "name": "Impersonator",
+    "artist": "Majical Cloudz",
+    "rdioKey": "a2972557"
+  },
+  {
+    "name": "Country Legends",
+    "artist": "Merle Haggard",
+    "rdioKey": "a3003203"
+  },
+  {
+    "name": "Settle",
+    "artist": "Disclosure",
+    "rdioKey": "a3030339"
+  },
+  {
+    "name": "Yeezus",
+    "artist": "Kanye West",
+    "rdioKey": "a3122373"
+  },
+  {
+    "name": "Traditional Music of Notional Species Vol. I",
+    "artist": "Rashad Becker",
+    "rdioKey": "a3261711"
+  },
+  {
+    "name": "Restless Idylls",
+    "artist": "Tropic Of Cancer",
+    "rdioKey": "a3453960"
+  },
+  {
+    "name": "Avery County, I'm Bound to You",
+    "artist": "Barton Carroll",
+    "rdioKey": "a3582640"
+  },
+  {
+    "name": "Wed 21",
+    "artist": "Juana Molina",
+    "rdioKey": "a3663927"
+  },
+  {
+    "name": "Two Words",
+    "artist": "Rain Dog",
+    "rdioKey": "a3779378"
+  },
+  {
+    "name": "The Best of Roy Harper",
+    "artist": "Roy Harper",
+    "rdioKey": "a3898291"
+  },
+  {
+    "name": "Piñata",
+    "artist": "Freddie Gibbs & Madlib",
+    "rdioKey": "a4196677"
+  },
+  {
+    "name": "Enter The Slasher House",
+    "artist": "Avey Tare's Slasher Flicks",
+    "rdioKey": "a4246120"
+  },
+  {
+    "name": "Shrink Dust",
+    "artist": "Chad VanGaalen",
+    "rdioKey": "a4376253"
+  },
+  {
+    "name": "In Colour",
+    "artist": "Jamie xx",
+    "rdioKey": "a5799572"
+  }
+]
