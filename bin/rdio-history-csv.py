@@ -23,6 +23,9 @@
 import os
 import json
 
+def process(string):
+    return string.encode('ascii', 'ignore').replace(',', '').replace('"','').replace("'",'')
+
 print "Date Played,Artist,Title,Album"
 history_fmt = '{time},{artist},{title},{album}'
 NA = 'N/A'
@@ -41,8 +44,8 @@ for source in sources:
     for track in tracks:
         info = track['track']
         print history_fmt.format(**{
-            'time': track.get('time', NA).encode('ascii', 'ignore'),
-            'artist': info.get('artist', NA).encode('ascii', 'ignore'),
-            'title': info.get('name', NA).encode('ascii', 'ignore'),
-            'album': info.get('album', NA).encode('ascii', 'ignore'),
+            'time': process(track.get('time', NA)),
+            'artist': process(info.get('artist', NA)),
+            'title': process(info.get('name', NA)),
+            'album': process(info.get('album', NA)),
         })

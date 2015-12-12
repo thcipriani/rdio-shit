@@ -25,8 +25,11 @@ collection_file = os.path.abspath(
 with open(collection_file, 'r') as f:
     albums = json.load(f)
 
+def process(string):
+    return string.encode('ascii', 'ignore').replace(',', '').replace('"','').replace("'",'')
+
 for album in albums:
     print format_str.format(**{
-        'artist': album.get('artist', NA).encode('ascii', 'ignore'),
-        'album': album.get('name', NA).encode('ascii', 'ignore'),
+        'artist': process(album.get('artist', NA)),
+        'album': process(album.get('name', NA))
     })
