@@ -1,0 +1,228 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>beach boys</title>
+  <creator>ofMontreal</creator>
+  <meta rel="https://rdio.com/xspf/key">p2442104</meta>
+  <meta rel="https://rdio.com/xspf/name">beach boys</meta>
+  <meta rel="https://rdio.com/xspf/owner">ofMontreal</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ofMontreal/playlists/2442104/beach_boys/</meta>
+  <trackList>
+    <track>
+      <title>All I Wanna Do</title>
+      <creator>The Beach Boys</creator>
+      <album>Sunflower</album>
+      <trackNum>8</trackNum>
+      <duration>156000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGJP1300211,USBR10900010</meta>
+    </track>
+    <track>
+      <title>Our Sweet Love</title>
+      <creator>The Beach Boys</creator>
+      <album>Sunflower</album>
+      <trackNum>10</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGJP1300203,USBR10900002</meta>
+    </track>
+    <track>
+      <title>Forever</title>
+      <creator>The Beach Boys</creator>
+      <album>Sunflower</album>
+      <trackNum>9</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGJP1300212,USBR10900011</meta>
+    </track>
+    <track>
+      <title>Meant for You</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>1</trackNum>
+      <duration>39000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100298</meta>
+    </track>
+    <track>
+      <title>Friends</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>2</trackNum>
+      <duration>153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100300</meta>
+    </track>
+    <track>
+      <title>Wake the World</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>3</trackNum>
+      <duration>90000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100301</meta>
+    </track>
+    <track>
+      <title>Little Bird</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>8</trackNum>
+      <duration>119000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100309</meta>
+    </track>
+    <track>
+      <title>Be Still</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>9</trackNum>
+      <duration>84000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100311</meta>
+    </track>
+    <track>
+      <title>Busy Doin' Nothin'</title>
+      <creator>The Beach Boys</creator>
+      <album>Friends (2001 - Remaster)</album>
+      <trackNum>10</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100312</meta>
+    </track>
+    <track>
+      <title>I'd Love Just Once to See You</title>
+      <creator>The Beach Boys</creator>
+      <album>Wild Honey (2001 - Remaster)</album>
+      <trackNum>7</trackNum>
+      <duration>109000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100372</meta>
+    </track>
+    <track>
+      <title>Little Pad</title>
+      <creator>The Beach Boys</creator>
+      <album>Smiley Smile (2001 - Remaster)</album>
+      <trackNum>5</trackNum>
+      <duration>149000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100359</meta>
+    </track>
+    <track>
+      <title>When I Grow Up (To Be a Man)</title>
+      <creator>The Beach Boys</creator>
+      <album>The Beach Boys Today! (2001 - Remaster)</album>
+      <trackNum>4</trackNum>
+      <duration>124000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20001671</meta>
+    </track>
+    <track>
+      <title>Please Let Me Wonder</title>
+      <creator>The Beach Boys</creator>
+      <album>The Beach Boys Today! (2001 - Remaster)</album>
+      <trackNum>7</trackNum>
+      <duration>167000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20001674</meta>
+    </track>
+    <track>
+      <title>She Knows Me Too Well</title>
+      <creator>The Beach Boys</creator>
+      <album>The Beach Boys Today! (2001 - Remaster)</album>
+      <trackNum>10</trackNum>
+      <duration>150000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20001677</meta>
+    </track>
+    <track>
+      <title>I Can Hear Music</title>
+      <creator>The Beach Boys</creator>
+      <album>20/20 (2001 - Remaster)</album>
+      <trackNum>2</trackNum>
+      <duration>157000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100318</meta>
+    </track>
+    <track>
+      <title>All I Want to Do</title>
+      <creator>The Beach Boys</creator>
+      <album>20/20 (2001 - Remaster)</album>
+      <trackNum>5</trackNum>
+      <duration>122000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100321</meta>
+    </track>
+    <track>
+      <title>I Went to Sleep</title>
+      <creator>The Beach Boys</creator>
+      <album>20/20 (2001 - Remaster)</album>
+      <trackNum>8</trackNum>
+      <duration>96000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100324</meta>
+    </track>
+    <track>
+      <title>Surfer Girl</title>
+      <creator>The Beach Boys</creator>
+      <album>Surfer Girl (2001 - Remaster)</album>
+      <trackNum>1</trackNum>
+      <duration>145000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20001588</meta>
+    </track>
+    <track>
+      <title>In My Room</title>
+      <creator>The Beach Boys</creator>
+      <album>Surfer Girl (2001 - Remaster)</album>
+      <trackNum>7</trackNum>
+      <duration>131000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20001596</meta>
+    </track>
+    <track>
+      <title>You Still Believe In Me (1996 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>2</trackNum>
+      <duration>149000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600673</meta>
+    </track>
+    <track>
+      <title>Don't Talk (Put Your Head On My Shoulder) (1996 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>4</trackNum>
+      <duration>170000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600678</meta>
+    </track>
+    <track>
+      <title>I'm Waiting For The Day (1996 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>5</trackNum>
+      <duration>183000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600679</meta>
+    </track>
+    <track>
+      <title>God Only Knows (1997 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>8</trackNum>
+      <duration>169000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600682</meta>
+    </track>
+    <track>
+      <title>I Just Wasn't Made For These Times (1996 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>11</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600685</meta>
+    </track>
+    <track>
+      <title>Caroline, No (1996 Digital Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Pet Sounds</album>
+      <trackNum>13</trackNum>
+      <duration>173000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29600687</meta>
+    </track>
+    <track>
+      <title>The Warmth Of The Sun (Mono)</title>
+      <creator>The Beach Boys</creator>
+      <album>Endless Summer</album>
+      <trackNum>4</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA28700374</meta>
+    </track>
+    <track>
+      <title>Let Him Run Wild (Mono)</title>
+      <creator>The Beach Boys</creator>
+      <album>Endless Summer</album>
+      <trackNum>14</trackNum>
+      <duration>143000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA28700529</meta>
+    </track>
+  </trackList>
+</playlist>

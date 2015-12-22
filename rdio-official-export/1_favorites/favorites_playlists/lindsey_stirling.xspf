@@ -1,0 +1,68 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>lindsey stirling</title>
+  <creator>kevinkinsey</creator>
+  <meta rel="https://rdio.com/xspf/key">p1316586</meta>
+  <meta rel="https://rdio.com/xspf/name">lindsey stirling</meta>
+  <meta rel="https://rdio.com/xspf/owner">kevinkinsey</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/kevinkinsey/playlists/1316586/lindsey_stirling/</meta>
+  <trackList>
+    <track>
+      <title>Crystallize</title>
+      <creator>Ronario</creator>
+      <album>This Is Ronario</album>
+      <trackNum>4</trackNum>
+      <duration>416000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51072029</meta>
+    </track>
+    <track>
+      <title>Crystallize</title>
+      <creator>Ronario</creator>
+      <album>This Is Ronario</album>
+      <trackNum>4</trackNum>
+      <duration>416000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51072029</meta>
+    </track>
+    <track>
+      <title>Together In Electric Dreams</title>
+      <creator>Daisy Daisy</creator>
+      <album>Together In Electric Dreams</album>
+      <trackNum>3</trackNum>
+      <duration>213000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGNS0700298</meta>
+    </track>
+    <track>
+      <title>Phantom Of The Opera Medley (from "Phantom Of The Opera")</title>
+      <creator>Broadway Session Musicians</creator>
+      <album>The Greatest Hits Of Andrew Lloyd Webber</album>
+      <trackNum>9</trackNum>
+      <duration>315000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKYW1119945</meta>
+    </track>
+    <track>
+      <title>Grenade | Alex Boy√© {Featuring} | Lindsey Stirling {Featuring}</title>
+      <creator>Nathaniel Drew &amp; Salt Lake Pops Orchestra</creator>
+      <album>Grenade Single</album>
+      <trackNum>1</trackNum>
+      <duration>214000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USE830902941</meta>
+    </track>
+    <track>
+      <title>Let Me</title>
+      <creator>Painè</creator>
+      <album>Spontaneous</album>
+      <trackNum>6</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ITH750200015</meta>
+    </track>
+    <track>
+      <title>Grenade | Alex Boy√© (featuring) | Lindsey Stirling [featuring]</title>
+      <creator>Nathaniel Drew &amp; Salt Lake Pops Orchestra</creator>
+      <album>Grenade - Single</album>
+      <trackNum>1</trackNum>
+      <duration>214000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USE830902941</meta>
+    </track>
+  </trackList>
+</playlist>

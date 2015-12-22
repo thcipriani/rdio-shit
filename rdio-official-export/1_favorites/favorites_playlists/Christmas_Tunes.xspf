@@ -1,0 +1,1364 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Christmas Tunes</title>
+  <creator>kylesteed</creator>
+  <meta rel="https://rdio.com/xspf/key">p1797037</meta>
+  <meta rel="https://rdio.com/xspf/name">Christmas Tunes</meta>
+  <meta rel="https://rdio.com/xspf/owner">kylesteed</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/kylesteed/playlists/1797037/Christmas_Tunes/</meta>
+  <trackList>
+    <track>
+      <title>The Little Drummer Boy</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>1</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615233</meta>
+    </track>
+    <track>
+      <title>Have Yourself A Merry Little Christmas</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>2</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615238</meta>
+    </track>
+    <track>
+      <title>My Favorite Things</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>3</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16647609</meta>
+    </track>
+    <track>
+      <title>Away In A Manger</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>4</trackNum>
+      <duration>182000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615240</meta>
+    </track>
+    <track>
+      <title>Mary's Little Boy Chile</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>5</trackNum>
+      <duration>149000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615237</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>6</trackNum>
+      <duration>187000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615244</meta>
+    </track>
+    <track>
+      <title>God Rest Ye, Merry Gentlemen</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>7</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615242</meta>
+    </track>
+    <track>
+      <title>The Christmas Song</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>8</trackNum>
+      <duration>180000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615239</meta>
+    </track>
+    <track>
+      <title>Children Go Where I Send Thee</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>184000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615234</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>10</trackNum>
+      <duration>157000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16647728</meta>
+    </track>
+    <track>
+      <title>Twelve Days Of Christmas</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>11</trackNum>
+      <duration>133000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615241</meta>
+    </track>
+    <track>
+      <title>Merry Christmas Baby</title>
+      <creator>Kenny Burrell</creator>
+      <album>Have Yourself a Soulful Little Christmas</album>
+      <trackNum>12</trackNum>
+      <duration>203000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC16615236</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>1</trackNum>
+      <duration>159000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14704375</meta>
+    </track>
+    <track>
+      <title>Adeste Fideles</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>2</trackNum>
+      <duration>192000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14203025</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>3</trackNum>
+      <duration>186000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14750470</meta>
+    </track>
+    <track>
+      <title>God Rest Ye Merry Gentlemen</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>4</trackNum>
+      <duration>140000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14250037</meta>
+    </track>
+    <track>
+      <title>Faith Of Our Fathers</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>5</trackNum>
+      <duration>176000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14203027</meta>
+    </track>
+    <track>
+      <title>I'll Be Home For Christmas</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>6</trackNum>
+      <duration>178000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14303203</meta>
+    </track>
+    <track>
+      <title>Jingle Bells</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>7</trackNum>
+      <duration>157000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC14350896</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Comin' To Town</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>8</trackNum>
+      <duration>164000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0123022</meta>
+    </track>
+    <track>
+      <title>Silver Bells</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC15005832</meta>
+    </track>
+    <track>
+      <title>It's Beginning To Look Like Christmas</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>10</trackNum>
+      <duration>169000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC15151057</meta>
+    </track>
+    <track>
+      <title>Christmas In Killarney</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>11</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0123007</meta>
+    </track>
+    <track>
+      <title>Mele Kalikimaka (Merry Christmas)</title>
+      <creator>Bing Crosby</creator>
+      <album>White Christmas</album>
+      <trackNum>12</trackNum>
+      <duration>175000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWWW0123012</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>1</trackNum>
+      <duration>148000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912709,FR6V82221114</meta>
+    </track>
+    <track>
+      <title>Happy Holiday / The Holiday Season</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>2</trackNum>
+      <duration>156000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10027541,FR6V82221115</meta>
+    </track>
+    <track>
+      <title>The Christmas Song (Chestnuts Roasting On An Open Fire)</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>3</trackNum>
+      <duration>152000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221116,USSM19912713</meta>
+    </track>
+    <track>
+      <title>It's the Most Wonderful Time of the Year</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>4</trackNum>
+      <duration>152000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221117,USSM16300086</meta>
+    </track>
+    <track>
+      <title>A Song and a Christmas Tree (The Twelve Days of Christmas)</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>5</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912714,FR6V82221118</meta>
+    </track>
+    <track>
+      <title>Kay Thompson's Jingle Bells</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>6</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221119,USSM19912715</meta>
+    </track>
+    <track>
+      <title>The First Noël</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>7</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912716,FR6V82221120</meta>
+    </track>
+    <track>
+      <title>O Holy Night</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>8</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912717,FR6V82221121</meta>
+    </track>
+    <track>
+      <title>Away in a Manger</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>9</trackNum>
+      <duration>169000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221122,USSM19912718</meta>
+    </track>
+    <track>
+      <title>Sweet Little Jesus Boy</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>10</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221123,USSM19912719</meta>
+    </track>
+    <track>
+      <title>The Little Drummer Boy</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>11</trackNum>
+      <duration>135000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V82221124,USSM19912720</meta>
+    </track>
+    <track>
+      <title>Silent Night, Holy Night</title>
+      <creator>Andy Williams</creator>
+      <album>The Andy Williams Christmas Album</album>
+      <trackNum>12</trackNum>
+      <duration>135000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19912721,FR6V82221125</meta>
+    </track>
+    <track>
+      <title>Here</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>1</trackNum>
+      <duration>87000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174311</meta>
+    </track>
+    <track>
+      <title>Away in a Manger</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>2</trackNum>
+      <duration>110000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174312</meta>
+    </track>
+    <track>
+      <title>Come to You</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>3</trackNum>
+      <duration>112000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174313</meta>
+    </track>
+    <track>
+      <title>God Rest Ye Merry Gentlemen</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>4</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174314</meta>
+    </track>
+    <track>
+      <title>Angels We Have Heard On High</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>5</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174315</meta>
+    </track>
+    <track>
+      <title>Auld Lang Syne</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>6</trackNum>
+      <duration>107000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174316</meta>
+    </track>
+    <track>
+      <title>Dove</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>7</trackNum>
+      <duration>363000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174317</meta>
+    </track>
+    <track>
+      <title>Jingle Bells</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>8</trackNum>
+      <duration>53000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174318</meta>
+    </track>
+    <track>
+      <title>Joy to the World</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>9</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174319</meta>
+    </track>
+    <track>
+      <title>Silent Night (Feat. Karla Adolphe)</title>
+      <creator>Aaron Strumpel</creator>
+      <album>Christmas!</album>
+      <trackNum>10</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USX9P1174320</meta>
+    </track>
+    <track>
+      <title>Away in a Manger</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>1</trackNum>
+      <duration>168000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204801</meta>
+    </track>
+    <track>
+      <title>Blue Christmas</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>2</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204802</meta>
+    </track>
+    <track>
+      <title>Oh Little Town of Bethlehem</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>3</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204803</meta>
+    </track>
+    <track>
+      <title>God Rest Ye Merry Gentlemen</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>4</trackNum>
+      <duration>112000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204804</meta>
+    </track>
+    <track>
+      <title>The First Noel</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>5</trackNum>
+      <duration>150000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204805</meta>
+    </track>
+    <track>
+      <title>Little Drummer Boy</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>6</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204806</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>7</trackNum>
+      <duration>95000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204807</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>8</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204808</meta>
+    </track>
+    <track>
+      <title>Silver Bells</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>9</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204809</meta>
+    </track>
+    <track>
+      <title>Have Yourself a Merry Little Christmas</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>10</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204810</meta>
+    </track>
+    <track>
+      <title>The Night Before Christmas</title>
+      <creator>Bright Eyes</creator>
+      <album>A Christmas Album</album>
+      <trackNum>11</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60204811</meta>
+    </track>
+    <track>
+      <title>O Tannenbaum</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>309000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201093</meta>
+    </track>
+    <track>
+      <title>What Child Is This</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>145000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201094</meta>
+    </track>
+    <track>
+      <title>My Little Drum</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>192000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201095</meta>
+    </track>
+    <track>
+      <title>Linus And Lucy</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201096</meta>
+    </track>
+    <track>
+      <title>Christmas Time Is Here (Instrumental)</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>366000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201097</meta>
+    </track>
+    <track>
+      <title>Christmas Time Is Here (Vocal)</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>6</trackNum>
+      <duration>166000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201098</meta>
+    </track>
+    <track>
+      <title>Skating</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>7</trackNum>
+      <duration>146000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201099</meta>
+    </track>
+    <track>
+      <title>Hark, The Herald Angels Sing</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>115000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201100</meta>
+    </track>
+    <track>
+      <title>Christmas Is Coming</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>9</trackNum>
+      <duration>205000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201101</meta>
+    </track>
+    <track>
+      <title>Fur Elise</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>66000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201102</meta>
+    </track>
+    <track>
+      <title>The Christmas Song</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>11</trackNum>
+      <duration>197000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201103</meta>
+    </track>
+    <track>
+      <title>Greensleeves</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>12</trackNum>
+      <duration>329000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201104</meta>
+    </track>
+    <track>
+      <title>Great Pumpkin Waltz</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>13</trackNum>
+      <duration>149000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201105</meta>
+    </track>
+    <track>
+      <title>Thanksgiving Theme</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas (Remastered &amp; Expanded Edition)</album>
+      <trackNum>14</trackNum>
+      <duration>120000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R1201106</meta>
+    </track>
+    <track>
+      <title>O, Come All Ye Faithful</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>1</trackNum>
+      <duration>339000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900604</meta>
+    </track>
+    <track>
+      <title>Angels We Have Heard On High</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>2</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900605</meta>
+    </track>
+    <track>
+      <title>Emmanuel (Hallowed Manger Ground)</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>3</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900606</meta>
+    </track>
+    <track>
+      <title>Hark! The Herald Angels Sing</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>4</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900607</meta>
+    </track>
+    <track>
+      <title>My Soul Magnifies The Lord</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>5</trackNum>
+      <duration>381000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900608</meta>
+    </track>
+    <track>
+      <title>Joy to the World (Unspeakable Joy)</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>6</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900609</meta>
+    </track>
+    <track>
+      <title>Glory In The Highest</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>7</trackNum>
+      <duration>278000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900610</meta>
+    </track>
+    <track>
+      <title>O, Holy Night</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>8</trackNum>
+      <duration>376000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900611</meta>
+    </track>
+    <track>
+      <title>Come Thou Long Expected Jesus (Feat. Christy Nockels)</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>9</trackNum>
+      <duration>179000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900612</meta>
+    </track>
+    <track>
+      <title>Light Of The World (Feat. Matt Redman)</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>10</trackNum>
+      <duration>297000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900613</meta>
+    </track>
+    <track>
+      <title>Winter Snow (Feat. Audrey Assad)</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>11</trackNum>
+      <duration>213000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900614</meta>
+    </track>
+    <track>
+      <title>Born That We May Have Life</title>
+      <creator>Chris Tomlin</creator>
+      <album>Glory In The Highest: Christmas Songs Of Worship</album>
+      <trackNum>12</trackNum>
+      <duration>331000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSP30900615</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>1</trackNum>
+      <duration>44000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602801,GBCVZ0601711</meta>
+    </track>
+    <track>
+      <title>O Come O Come Emmanuel</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>2</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602802,GBCVZ0601712</meta>
+    </track>
+    <track>
+      <title>We're Goin' To the Country!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>3</trackNum>
+      <duration>137000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602803,GBCVZ0601713</meta>
+    </track>
+    <track>
+      <title>Lo! How A Rose E'er Blooming</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>4</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601714,US64G0602804</meta>
+    </track>
+    <track>
+      <title>It's Christmas! Let's Be Glad!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>5</trackNum>
+      <duration>115000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601715,US64G0602805</meta>
+    </track>
+    <track>
+      <title>Holy Holy, etc.</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>6</trackNum>
+      <duration>41000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602806,GBCVZ0601716</meta>
+    </track>
+    <track>
+      <title>Amazing Grace</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>7</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601717,US64G0602807</meta>
+    </track>
+    <track>
+      <title>Angels We Have Heard on High</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>8</trackNum>
+      <duration>45000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601718,US64G0602808</meta>
+    </track>
+    <track>
+      <title>Put the Lights On the Tree</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>9</trackNum>
+      <duration>108000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602809,GBCVZ0601719</meta>
+    </track>
+    <track>
+      <title>Come Thou Fount of Every Blessing</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>10</trackNum>
+      <duration>283000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602810,GBCVZ0601720</meta>
+    </track>
+    <track>
+      <title>I Saw Three Ships</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>11</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602811,GBCVZ0601721</meta>
+    </track>
+    <track>
+      <title>Only at Christmas Time</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>12</trackNum>
+      <duration>134000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602812,GBCVZ0601722</meta>
+    </track>
+    <track>
+      <title>Once in Royal David's City</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>13</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602813,GBCVZ0601723</meta>
+    </track>
+    <track>
+      <title>Hark! The Herald Angels Sing!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>14</trackNum>
+      <duration>45000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601724,US64G0602814</meta>
+    </track>
+    <track>
+      <title>What Child Is This Anyway?</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>15</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601725,US64G0602815</meta>
+    </track>
+    <track>
+      <title>Bring A Torch, Jeanette, Isabella</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>16</trackNum>
+      <duration>99000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601726,US64G0602816</meta>
+    </track>
+    <track>
+      <title>O Come O Come Emmanuel</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>17</trackNum>
+      <duration>64000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601727,US64G0602817</meta>
+    </track>
+    <track>
+      <title>Come on! Let's Boogey to the Elf Dance!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>18</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602818,GBCVZ0601728</meta>
+    </track>
+    <track>
+      <title>We Three Kings</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>19</trackNum>
+      <duration>178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602819,GBCVZ0601729</meta>
+    </track>
+    <track>
+      <title>O Holy Night</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>20</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602820,GBCVZ0601730</meta>
+    </track>
+    <track>
+      <title>That Was the Worst Christmas Ever!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>21</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602821,GBCVZ0601731</meta>
+    </track>
+    <track>
+      <title>Ding! Dong!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>22</trackNum>
+      <duration>55000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602822,GBCVZ0601732</meta>
+    </track>
+    <track>
+      <title>All the King's Horns</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>23</trackNum>
+      <duration>179000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602823,GBCVZ0601733</meta>
+    </track>
+    <track>
+      <title>The Friendly Beasts</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>24</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602824,GBCVZ0601734</meta>
+    </track>
+    <track>
+      <title>The Little Drummer Boy</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>25</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601735,US64G0602825</meta>
+    </track>
+    <track>
+      <title>Away In A Manger</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>26</trackNum>
+      <duration>174000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601736,US64G0602826</meta>
+    </track>
+    <track>
+      <title>Hey Guys! It's Christmas Time!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>27</trackNum>
+      <duration>281000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601737,US64G0602827</meta>
+    </track>
+    <track>
+      <title>The First Noel</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>28</trackNum>
+      <duration>52000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602828,GBCVZ0601738</meta>
+    </track>
+    <track>
+      <title>Did I Make You Cry On Christmas Day? (Well, You Deserved It!)</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>29</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602829,GBCVZ0601739</meta>
+    </track>
+    <track>
+      <title>The Incarnation</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>30</trackNum>
+      <duration>143000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601740,US64G0602830</meta>
+    </track>
+    <track>
+      <title>Joy To The World</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>31</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601741,US64G0602831</meta>
+    </track>
+    <track>
+      <title>Once in Royal David's City</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>32</trackNum>
+      <duration>121000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602832,GBCVZ0601742</meta>
+    </track>
+    <track>
+      <title>Get Behind Me, Santa!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>33</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602833,GBCVZ0601743</meta>
+    </track>
+    <track>
+      <title>Jingle Bells</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>34</trackNum>
+      <duration>36000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601744,US64G0602834</meta>
+    </track>
+    <track>
+      <title>Christmas in July</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>35</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601745,US64G0602835</meta>
+    </track>
+    <track>
+      <title>Lo! How A Rose E'er Blooming</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>36</trackNum>
+      <duration>105000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602836,GBCVZ0601746</meta>
+    </track>
+    <track>
+      <title>Jupiter Winter</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>37</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602837,GBCVZ0601747</meta>
+    </track>
+    <track>
+      <title>Sister Winter</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>38</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601748,US64G0602838</meta>
+    </track>
+    <track>
+      <title>O Come O Come Emmanuel</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>39</trackNum>
+      <duration>66000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601749,US64G0602839</meta>
+    </track>
+    <track>
+      <title>Star of Wonder</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>40</trackNum>
+      <duration>427000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601750,US64G0602840</meta>
+    </track>
+    <track>
+      <title>Holy, Holy, Holy</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>41</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ0601751,US64G0602841</meta>
+    </track>
+    <track>
+      <title>The Winter Solstice</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Songs For Christmas</album>
+      <trackNum>42</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0602842,GBCVZ0601752</meta>
+    </track>
+    <track>
+      <title>Nat's Christmas Wishes</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>1</trackNum>
+      <duration>16000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29901934</meta>
+    </track>
+    <track>
+      <title>The Christmas Song (Merry Christmas To You)</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>2</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900551</meta>
+    </track>
+    <track>
+      <title>Deck The Hall</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>3</trackNum>
+      <duration>69000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900552</meta>
+    </track>
+    <track>
+      <title>O Come All Ye Faithful</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>4</trackNum>
+      <duration>140000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900574</meta>
+    </track>
+    <track>
+      <title>God Rest Ye Merry, Gentlemen</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>5</trackNum>
+      <duration>88000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900554</meta>
+    </track>
+    <track>
+      <title>O Tannenbaum</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>6</trackNum>
+      <duration>183000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900555</meta>
+    </track>
+    <track>
+      <title>O Little Town Of Bethlehem</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>7</trackNum>
+      <duration>141000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900558</meta>
+    </track>
+    <track>
+      <title>I Saw Three Ships</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>8</trackNum>
+      <duration>88000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900559</meta>
+    </track>
+    <track>
+      <title>O Holy Night</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>9</trackNum>
+      <duration>178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900561</meta>
+    </track>
+    <track>
+      <title>Hark! The Herald Angels Sing</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>10</trackNum>
+      <duration>111000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900562</meta>
+    </track>
+    <track>
+      <title>A Cradle In Bethlehem</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>11</trackNum>
+      <duration>207000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900567</meta>
+    </track>
+    <track>
+      <title>Away In A Manger</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>12</trackNum>
+      <duration>121000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900568</meta>
+    </track>
+    <track>
+      <title>Joy To The World</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>13</trackNum>
+      <duration>85000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900569</meta>
+    </track>
+    <track>
+      <title>The First Noel</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>14</trackNum>
+      <duration>118000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900570</meta>
+    </track>
+    <track>
+      <title>Caroling, Caroling</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>15</trackNum>
+      <duration>123000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900572</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>16</trackNum>
+      <duration>131000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29900573</meta>
+    </track>
+    <track>
+      <title>Buon Natale</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>17</trackNum>
+      <duration>95000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20804846</meta>
+    </track>
+    <track>
+      <title>All I Want For Christmas (Is My Two Front Teeth)</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>18</trackNum>
+      <duration>153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20904182</meta>
+    </track>
+    <track>
+      <title>The Happiest Christmas Tree</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>19</trackNum>
+      <duration>105000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20904183</meta>
+    </track>
+    <track>
+      <title>The Christmas Song</title>
+      <creator>Nat King Cole</creator>
+      <album>The Christmas Song</album>
+      <trackNum>20</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29901932</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Back In Town</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>1</trackNum>
+      <duration>142000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEHB51207622,USA561323099,USRC15701161,USA561269213</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>2</trackNum>
+      <duration>142000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC15701157,USA561323100,USA561269214,DEHB51207621</meta>
+    </track>
+    <track>
+      <title>Here Comes Santa Claus (Right Down Santa Claus Lane)</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>3</trackNum>
+      <duration>113000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC15701156,USA561269215,USA561323101,DEHB51207620</meta>
+    </track>
+    <track>
+      <title>I'll Be Home for Christmas</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>4</trackNum>
+      <duration>112000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA561323102,USA561269216,USRC15701159,DEHB51207619</meta>
+    </track>
+    <track>
+      <title>Blue Christmas</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>5</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA561269217,USA561323103,USRC15701155,DEHB51207618</meta>
+    </track>
+    <track>
+      <title>Santa Bring My Baby Back (To Me)</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>6</trackNum>
+      <duration>110000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEHB51207617,USRC15701158,USA561323104,USA561269218</meta>
+    </track>
+    <track>
+      <title>O Little Town of Bethlehem</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>7</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEHB51207616,USRC15701160,USA561269219,USA561323105</meta>
+    </track>
+    <track>
+      <title>Silent Night</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>8</trackNum>
+      <duration>140000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA561269220,USRC15706998,USA561323106,DEHB51207615</meta>
+    </track>
+    <track>
+      <title>(There'll Be) Peace in the Valley (For Me)</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>9</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEHB51207614,USRC15700732,USA561269221,USA561323107</meta>
+    </track>
+    <track>
+      <title>I Believe</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>10</trackNum>
+      <duration>121000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA561269222,USRC15700731,USA561323108,DEHB51207613</meta>
+    </track>
+    <track>
+      <title>Take My Hand, Precious Lord</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>11</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC15700733,USA561269223,USA561323109,DEHB51207612</meta>
+    </track>
+    <track>
+      <title>It Is No Secret (What God Can Do)</title>
+      <creator>Elvis Presley</creator>
+      <album>Elvis' Christmas Album</album>
+      <trackNum>12</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC15700734,USA561323110,USA561269224,DEHB51207611</meta>
+    </track>
+    <track>
+      <title>Jingle Bells</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>1</trackNum>
+      <duration>206000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502952</meta>
+    </track>
+    <track>
+      <title>Let It Snow</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>2</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502953</meta>
+    </track>
+    <track>
+      <title>The Christmas Song</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>3</trackNum>
+      <duration>264000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502954</meta>
+    </track>
+    <track>
+      <title>Winter Wonderland</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>4</trackNum>
+      <duration>195000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502956</meta>
+    </track>
+    <track>
+      <title>I'll Be Home For Christmas</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>5</trackNum>
+      <duration>187000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502957</meta>
+    </track>
+    <track>
+      <title>Christmas Time Is Here</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>6</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGR19800110</meta>
+    </track>
+    <track>
+      <title>Santa Claus Is Coming To Town</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>7</trackNum>
+      <duration>173000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502959</meta>
+    </track>
+    <track>
+      <title>Have Yourself A Merry Little Christmas</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>8</trackNum>
+      <duration>259000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGR19800109</meta>
+    </track>
+    <track>
+      <title>White Christmas</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>9</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502961</meta>
+    </track>
+    <track>
+      <title>What Are You Doing New Year's Eve?</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>10</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502963</meta>
+    </track>
+    <track>
+      <title>Sleigh Ride</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>11</trackNum>
+      <duration>206000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502966</meta>
+    </track>
+    <track>
+      <title>Count Your Blessings Instead Of Sheep</title>
+      <creator>Diana Krall</creator>
+      <album>Christmas Songs</album>
+      <trackNum>12</trackNum>
+      <duration>221000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70502967</meta>
+    </track>
+  </trackList>
+</playlist>
